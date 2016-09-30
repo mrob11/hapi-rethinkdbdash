@@ -7,3 +7,6 @@ notifications:
       - mike.robinson.81@gmail.com
     on_success: false
     on_failure: always
+
+addons:
+  rethinkdb: 2.3.5
