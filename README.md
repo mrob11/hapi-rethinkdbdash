@@ -2,6 +2,9 @@
 
 A Hapi plugin for the [rethinkdbdash driver by neumino](https://github.com/neumino/rethinkdbdash).
 
+[![Build Status](https://travis-ci.org/mike360/hapi-rethinkdbdash.svg?branch=master)](https://travis-ci.org/mike360/hapi-rethinkdbdash)
+
+
 ## Installation
 
 Install the plugin, Hapi, and rethinkdbdash:
