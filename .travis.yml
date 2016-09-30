@@ -1,0 +1,9 @@
+language: node_js
+node_js:
+  - "6"
+notifications:
+  email:
+    recipients:
+      - mike.robinson.81@gmail.com
+    on_success: false
+    on_failure: always
