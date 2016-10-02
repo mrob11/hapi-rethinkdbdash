@@ -9,5 +9,5 @@ exports.register = (server, options, next) => {
 }
 
 exports.register.attributes = {
-  name: 'hapi-rethinkdbdash'
+  pkg: require('./package.json')
 }
